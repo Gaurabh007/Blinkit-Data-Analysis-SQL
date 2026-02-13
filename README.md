@@ -6,7 +6,7 @@
         height="600" 
         style="display: block; margin: 0 auto" />
 
-**Tools Used :** SQL,Excel
+**Tools Used :** SQL, Excel, Power BI
 
 [Dataset Used](https://www.kaggle.com/datasets/arunkumaroraon/blinkit-grocery-dataset?select=BlinkIT-Grocery-Data.csv)
 
